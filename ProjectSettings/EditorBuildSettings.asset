@@ -5,16 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/myData/Scenes/MainMenu.unity
     guid: 1c9f975b3fc9aab48a0cb8d2c058ecd4
-  - enabled: 1
+  - enabled: 0
     path: Assets/myData/Scenes/VR Click Testing.unity
     guid: fa5bf09c6bc7b974389c471fa923ac00
-  - enabled: 1
+  - enabled: 0
     path: Assets/myData/Scenes/Sphere Room.unity
     guid: 7080254c3c274af40a4229867bb72ca3
+  - enabled: 1
+    path: Assets/myData/Scenes/Sample.unity
+    guid: e398a2d43b4f71c42b63cd8130d6e4cd
   - enabled: 0
-    path: Assets/myData/Scenes/Map.unity
-    guid: 4aead948d8ebf436184e5be0b2f5a3be
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
